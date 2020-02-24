@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\MyFactorial\MyFactorial\bin\Debug\MyFactorial.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\MyFactorial\MyFactorial\bin\Debug\MyFactorial.exe
+c:\users\hp\documents\visual studio 2015\Projects\MyFactorial\MyFactorial\bin\Debug\MyFactorial.pdb
+c:\users\hp\documents\visual studio 2015\Projects\MyFactorial\MyFactorial\obj\Debug\MyFactorial.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\MyFactorial\MyFactorial\obj\Debug\MyFactorial.exe
+c:\users\hp\documents\visual studio 2015\Projects\MyFactorial\MyFactorial\obj\Debug\MyFactorial.pdb

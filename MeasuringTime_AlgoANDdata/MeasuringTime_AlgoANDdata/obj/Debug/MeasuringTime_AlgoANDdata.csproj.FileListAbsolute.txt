@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\MeasuringTime_AlgoANDdata\MeasuringTime_AlgoANDdata\bin\Debug\MeasuringTime_AlgoANDdata.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\MeasuringTime_AlgoANDdata\MeasuringTime_AlgoANDdata\bin\Debug\MeasuringTime_AlgoANDdata.exe
+c:\users\hp\documents\visual studio 2015\Projects\MeasuringTime_AlgoANDdata\MeasuringTime_AlgoANDdata\bin\Debug\MeasuringTime_AlgoANDdata.pdb
+c:\users\hp\documents\visual studio 2015\Projects\MeasuringTime_AlgoANDdata\MeasuringTime_AlgoANDdata\obj\Debug\MeasuringTime_AlgoANDdata.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\MeasuringTime_AlgoANDdata\MeasuringTime_AlgoANDdata\obj\Debug\MeasuringTime_AlgoANDdata.exe
+c:\users\hp\documents\visual studio 2015\Projects\MeasuringTime_AlgoANDdata\MeasuringTime_AlgoANDdata\obj\Debug\MeasuringTime_AlgoANDdata.pdb
